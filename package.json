@@ -9,7 +9,7 @@
     "syntax",
     "japan"
   ],
-  "repository": "https://github.com/jasuess/ariake-black-syntax",
+  "repository": "https://github.com/csmith23/ariake-black-contrast-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
