@@ -1,7 +1,7 @@
 {
   "name": "ariake-black-syntax",
   "theme": "syntax",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A black tint customization of the Ariake Dark syntax.",
   "keywords": [
     "dark",
