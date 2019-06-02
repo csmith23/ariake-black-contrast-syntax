@@ -1,0 +1,17 @@
+{
+  "name": "ariake-black-syntax",
+  "theme": "syntax",
+  "version": "0.3.0",
+  "description": "A black tint customization of the Ariake Dark syntax.",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax",
+    "japan"
+  ],
+  "repository": "https://github.com/jasuess/ariake-black-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0"
+  }
+}
